@@ -1,2 +1,4 @@
 # HelloWorld
-Just another repository 
+Just another repository. 
+
+This is my first GitHub project. 
